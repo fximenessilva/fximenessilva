@@ -24,7 +24,7 @@
 <img align="left" alt="SCRUM" width="26px" src="https://toppng.com/uploads/preview/scrum-logo-11563040373dobu8gfol9.png" />
 
 <br>
----
+
 
 
 ![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=fximenessilva&show_icons=true)
