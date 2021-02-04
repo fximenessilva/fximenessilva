@@ -28,11 +28,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fximenessilva&layout=compact)](https://github.com/fximenessilva/github-readme-stats)
 
-<br>
-
----
 
 ![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=fximenessilva&show_icons=true&theme=merko)
 
