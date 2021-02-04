@@ -32,3 +32,9 @@
 
 ![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=fximenessilva&show_icons=true&theme=merko)
 
+<br>
+
+---
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fximenessilva)](https://github.com/fximenessilva/github-readme-stats)
