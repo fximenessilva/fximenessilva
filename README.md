@@ -23,9 +23,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="SCRUM" width="26px" src="https://toppng.com/uploads/preview/scrum-logo-11563040373dobu8gfol9.png" />
 
+
+---
+
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/fximenessilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fximenessilva&layout=compact)](https://github.com/fximenessilva/github-readme-stats)
 
 <br>
 
