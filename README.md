@@ -5,5 +5,4 @@
 - 💬 Ask me about whatever you want to know about my projects
 
 
-
-##### ![JS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+[2]: https://www.linkedin.com/in/your_contact_info
