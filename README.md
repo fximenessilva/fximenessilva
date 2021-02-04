@@ -18,9 +18,7 @@
 <img align="left" alt="Flux" width="26px" src="https://yycjs.com/real-world-react/img/flux-logo.png" />
 <img align="left" alt="Redux" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" />
 <img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
-<img align="left" alt="Express" width="26px" src="https://expressjs.com/images/express-facebook-share.png" />
 <img align="left" alt="MongoDb" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
-<img align="left" alt="Mongoose" width="26px" src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" />
 <img align="left" alt="Jest" width="26px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
